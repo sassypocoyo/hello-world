@@ -1,3 +1,17 @@
-# Hi there! I'm Diogo :)
+### Hi there! I'm Diogo :)
 
-I'm a noobie currently studying Computer Science and Engineering @ University of Minho! It's my first time messing around with GitHub so please give me a break ahaha. Ps: How do you make paragraphs on this thing? (HELP)
+## I'm a noobie Software Engineer Student @ UMinho
+- 📂 Currently studying Haskell
+- 💾 Technology is an inspiration to me
+- 💫 I love getting to know people deeply
+- 🎶 Listening to music is a therapy for me
+- 🏳️‍🌈 Part of the LGBTQ+ community
+- 🌱 Fun fact: I do yoga sometimes
+
+### Languages and tools:
+
+<img align="left" width="35px" alt="Haskell" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/haskell/haskell-original.svg" />
+<img align="left" width="35px" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" />
+<img align="left" width="35px" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" />
+<img align="left" width="35px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
+<img align="left" width="35px" alt="Visual Studio" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" />
