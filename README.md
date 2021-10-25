@@ -15,3 +15,9 @@
 <img align="left" width="35px" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" />
 <img align="left" width="35px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
 <img align="left" width="35px" alt="Visual Studio" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" />
+
+<br />
+
+---
+[![Diogo Matos' GitHub stats](https://github-readme-stats.vercel.app/api?username=sassypocoyo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
