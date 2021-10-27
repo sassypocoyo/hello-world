@@ -1,4 +1,4 @@
-### Hi there! I'm Diogo :)
+### 👋🏼 Hi there! I'm Diogo :)
 
 ## I'm a noobie Software Engineer Student @ UMinho
 - 📂 Currently studying Haskell
