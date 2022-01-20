@@ -1,6 +1,6 @@
 ### 👋🏼 Hi there! I'm Diogo :)
 
-## I'm a noobie Software Engineer Student @ UMinho
+## I'm a newbie Software Engineer Student @ UMinho
 - 📂 Currently studying Haskell
 - 💾 Technology is an inspiration to me
 - 💫 I love getting to know people deeply
