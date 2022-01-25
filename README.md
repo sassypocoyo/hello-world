@@ -17,7 +17,14 @@
 <img align="left" width="35px" alt="Visual Studio" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" />
 
 <br />
+<br />
+
+### Projects:
+
+- [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 
 ---
 [![Diogo Matos' GitHub stats](https://github-readme-stats.vercel.app/api?username=sassypocoyo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sassypocoyo&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
