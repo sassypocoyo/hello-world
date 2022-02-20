@@ -1,7 +1,7 @@
 ### 👋🏼 Hi there! I'm Diogo :)
 
 ## I'm a newbie Software Engineer Student @ UMinho
-- 📂 Currently studying Haskell
+- 📂 Currently studying C
 - 💾 Technology is an inspiration to me
 - 💫 I love getting to know people deeply
 - 🎶 Listening to music is a therapy for me
