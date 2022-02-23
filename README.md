@@ -1,6 +1,6 @@
 ### 👋🏼 Hi there! I'm Diogo :)
 
-## I'm a newbie Software Engineer Student @ UMinho
+## I'm a newbie Software Engineer Student @ [UMinho](https://uminho.pt)
 - 📂 Currently studying C
 - 💾 Technology is an inspiration to me
 - 💫 I love getting to know people deeply
@@ -24,7 +24,6 @@
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 
 ---
-[![Diogo Matos' GitHub stats](https://github-readme-stats.vercel.app/api?username=sassypocoyo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sassypocoyo&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Diogo Matos' GitHub stats](https://github-readme-stats.vercel.app/api?username=sassypocoyo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sassypocoyo&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
