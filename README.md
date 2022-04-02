@@ -22,6 +22,7 @@
 ### Projects:
 
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
+- [**LI2**](https://github.com/sassypocoyo/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 
 ---
 
