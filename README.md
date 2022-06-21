@@ -1,7 +1,7 @@
 ## 👋🏼 Hi there! I'm Diogo :)
 
 ### I'm a Software Engineer Student @ [UMinho](https://uminho.pt)
-- 📂 Currently learning Python
+- 📂 Currently learning **Python**
 - 💾 Technology is an inspiration to me
 - 🏳️‍🌈 Part of the LGBTQ+ community
 - 🌱 Fun fact: I do yoga sometimes
