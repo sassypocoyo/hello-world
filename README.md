@@ -11,6 +11,10 @@
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 - [**LI2**](https://github.com/sassypocoyo/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 
+### Just For Fun
+
+- [**CTT Checkout**](https://github.com/sassypocoyo/ctt_checkout) - Simple tool for calculating shipping costs via CTT, written in Python
+
 ### Languages
 
 <img align="left" width="40px" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
