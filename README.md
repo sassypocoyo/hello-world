@@ -11,9 +11,13 @@
 - [**LI2**](https://github.com/sassypocoyo/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 
+### Contributting to
+
+- [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
+- [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
+
 ### Just For Fun
 
-- [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - Fun project I'm contributting to as a member of [CeSIUM](https://cesium.di.uminho.pt)
 - [**CTT Checkout**](https://github.com/sassypocoyo/ctt_checkout) - Simple tool for calculating shipping costs via CTT, written in Python
 
 ### Languages
