@@ -48,4 +48,4 @@
 
 [![Diogo Matos' GitHub stats](https://github-readme-stats.vercel.app/api?username=sassypocoyo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sassypocoyo&hide=html,makefile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sassypocoyo/sassypocoyo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sassypocoyo/sassypocoyo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/sassypocoyo/sassypocoyo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/sassypocoyo/sassypocoyo/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
