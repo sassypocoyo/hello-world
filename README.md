@@ -1,12 +1,13 @@
 ## 👋🏼 Hi there! I'm Diogo :)
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- 📂 Currently learning **Python**
+- 📂 Currently learning frontend development
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga sometimes
 
 ### Projects
 
+- [**LI3**](https://github.com/dium-li3/grupo-29) - Coming soon
 - [**LI2**](https://github.com/sassypocoyo/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 
