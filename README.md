@@ -7,14 +7,15 @@
 
 ### Projects
 
-- [**LI3**](https://github.com/dium-li3/grupo-29) - Coming soon
+- [**LI3**](https://github.com/dium-li3/grupo-29) - In progress
 - [**LI2**](https://github.com/sassypocoyo/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 
 ### Contributing to
 
-- [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
+- [**CoderDojo Braga**](https://github.com/coderdojobraga/shuriken) - :star: Frontend platform for managing session registrations and recording ninjas' progress
 - [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
+- [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
 
 ### Just For Fun
 
