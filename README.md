@@ -7,7 +7,6 @@
 
 ### Projects
 
-- [**LI3**](https://github.com/dium-li3/grupo-29) - In progress
 - [**LI2**](https://github.com/sassypocoyo/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve**](https://github.com/sassypocoyo/blocksteve) - A little game written in Haskell
 
