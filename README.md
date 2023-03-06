@@ -16,10 +16,6 @@
 - [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
 - [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
 
-### Just For Fun
-
-- [**CTT Checkout**](https://github.com/sassypocoyo/ctt_checkout) - Simple tool for calculating shipping costs via CTT, written in Python
-
 ### Languages
 
 <img align="left" width="40px" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />
