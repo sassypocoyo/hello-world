@@ -1,7 +1,7 @@
 ## 👋🏼 Hi there! I'm Diogo :)
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- 📂 Currently learning frontend development
+- 📂 Currently learning Java & frontend development
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga sometimes
 
@@ -19,6 +19,7 @@
 
 ### Languages
 
+<img align="left" width="40px" alt="Java" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg" />
 <img align="left" width="40px" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" />
 <img align="left" width="40px" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" />
 <img align="left" width="40px" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" />
