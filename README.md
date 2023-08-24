@@ -1,7 +1,7 @@
 # 👋🏼 Hi there! I'm Diogo \^\^
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- 📂 Currently learning Java & frontend development
+- 📂 Currently doing front-end development for [CeSIUM](cesium.di.uminho.pt)
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga sometimes
 
