@@ -1,4 +1,4 @@
-## 👋🏼 Hi there! I'm Diogo \^\^
+# 👋🏼 Hi there! I'm Diogo \^\^
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
 - 📂 Currently learning Java & frontend development
@@ -11,21 +11,25 @@ Find me here:
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-matos)
 > [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imdiogo_m)
 
-### Projects
+## Uni Projects
 
-- [**BD**](https://github.com/diogogmatos/BD-Grupo20) - Development of a database for a public transport company
+**2nd year**
+- [**BD**](https://github.com/diogogmatos/BD-Grupo20) - Development of a database for a public transport company, using SQL
 - [**POO**](https://github.com/diogogmatos/POO) - Online marketplace platform for new or secondhand items, made with Java
+- [**SO**](https://github.com/diogogmatos/SO) - Applied concepts of operating systems to communicate information between a client and a server, using C
 - [**LI3**](https://github.com/diogogmatos/LI3-GRUPO29) - Reading, parsing and interpreting big data files, using C
+
+**1st year**
 - [**LI2**](https://github.com/diogogmatos/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve**](https://github.com/diogogmatos/blocksteve) - A little game written in Haskell
 
-### Contributing to
+## Contributing to
 
 - [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho (CeSIUM)
 - [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
 
-### Skills
+## Skills
 
 ![React](https://img.shields.io/badge/React-001e26?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
@@ -41,7 +45,7 @@ Find me here:
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 <!-- ![C#](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg) -->
 
-### Tools
+## Tools
 
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -55,7 +59,7 @@ Find me here:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogogmatos&theme=tokyonight)
 -->
-### Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diogogmatos/diogogmatos/blob/output/github-snake-dark.svg" />
