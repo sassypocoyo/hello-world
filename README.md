@@ -13,6 +13,7 @@ Find me here:
 
 ### Projects
 
+- [**POO**](https://github.com/diogogmatos/POO) - Online marketplace platform for new or secondhand items, made with Java
 - [**LI3**](https://github.com/diogogmatos/LI3-GRUPO29) - Reading, parsing and interpreting big data files, using C
 - [**LI2**](https://github.com/diogogmatos/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve**](https://github.com/diogogmatos/blocksteve) - A little game written in Haskell
