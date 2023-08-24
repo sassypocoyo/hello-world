@@ -19,8 +19,8 @@ Find me here:
 
 ### Contributing to
 
-- [**CoderDojo Braga**](https://github.com/coderdojobraga/shuriken) - :star: Frontend platform for managing session registrations and recording ninjas' progress
 - [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
+- [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho (CeSIUM)
 - [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
 
 ### Skills
