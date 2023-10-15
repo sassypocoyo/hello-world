@@ -1,15 +1,16 @@
 # 👋🏼 Hi there! I'm Diogo \^\^
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- 📂 Currently doing front-end development for [CeSIUM](cesium.di.uminho.pt)
+- 👤 Co-director | Open Source Department @ [CeSIUM](cesium.di.uminho.pt)
+- 📂 Currently doing front-end development for [CeSIUM](github.com/cesium)
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga sometimes
 
-Find me here:
+**Find me here:**
 
-> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogomatos@duck.com)
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-matos)
-> [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imdiogo_m)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogomatos@duck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-matos)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imdiogo_m)
 
 ## Uni Projects
 
