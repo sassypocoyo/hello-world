@@ -1,10 +1,10 @@
 # 👋🏼 Hi there! I'm Diogo \^\^
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- 👤 Co-director | Open Source Department @ [CeSIUM](cesium.di.uminho.pt)
+- 🍊 Co-director | Open Source Department @ [CeSIUM](cesium.di.uminho.pt)
 - 📂 Currently doing front-end development for [CeSIUM](github.com/cesium)
 - 💾 Technology is an inspiration to me
-- 🌱 Fun fact: I do yoga sometimes
+- 🌱 Fun fact: I do yoga
 
 **Find me here:**
 
@@ -32,10 +32,15 @@
 
 ## Skills
 
-![React](https://img.shields.io/badge/React-001e26?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-001e26?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-121b2d?style=for-the-badge&logo=tailwind-css&logoColor=16bdca)
 ![CSS](https://img.shields.io/badge/CSS-1b73ba?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,10 +53,11 @@
 
 ## Tools
 
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-242c34?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
