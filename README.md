@@ -27,7 +27,7 @@
 - [**LI2**](https://github.com/diogogmatos/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
 - [**BlockSteve (LI1)**](https://github.com/diogogmatos/blocksteve) - A little game written in Haskell
 
-## Contributing to
+## 🙌🏼 Contributing to
 
 - [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho (CeSIUM)
