@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-matos)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imdiogo_m)
 
-## Uni Projects
+## 🎓 Uni Projects
 
 **3rd year**
 - [**RhythmsOfGiving (LI4)**](https://github.com/diogogmatos/RhythmsOfGiving) - Full-stack online auctioning platform, developed with .NET Blazor C# and SQL
@@ -33,7 +33,7 @@
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho (CeSIUM)
 - [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
 
-## Skills
+## 🕹 Skills
 
 ![NextJS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-001e26?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,7 +54,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 <!-- ![C#](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg) -->
 
-## Tools
+## 🪄 Tools
 
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -69,7 +69,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogogmatos&theme=tokyonight)
 -->
-## Contributions
+## 🌱 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diogogmatos/diogogmatos/blob/output/github-snake-dark.svg" />
