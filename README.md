@@ -14,6 +14,9 @@
 
 ## Uni Projects
 
+**3rd year**
+- [**RhythmsOfGiving (LI4)**](https://github.com/diogogmatos/RhythmsOfGiving) - Full-stack online auctioning platform, developed with .NET Blazor C# and SQL
+
 **2nd year**
 - [**BD**](https://github.com/diogogmatos/BD-Grupo20) - Development of a database for a public transport company, using SQL
 - [**POO**](https://github.com/diogogmatos/POO) - Online marketplace platform for new or secondhand items, made with Java
@@ -22,7 +25,7 @@
 
 **1st year**
 - [**LI2**](https://github.com/diogogmatos/li2-pl5g05) - Interpreter for a stack oriented programming language, written in C
-- [**BlockSteve**](https://github.com/diogogmatos/blocksteve) - A little game written in Haskell
+- [**BlockSteve (LI1)**](https://github.com/diogogmatos/blocksteve) - A little game written in Haskell
 
 ## Contributing to
 
