@@ -15,9 +15,9 @@
 ## 🎓 Uni Projects
 
 **3rd year**
+- [**E.S. Ideal (IPM)**](https://github.com/diogogmatos/IPM) - Internal management platform for a service station, developed with Vue.js, TypeScript, and JSON Server
 - [**RhythmsOfGiving (LI4)**](https://github.com/diogogmatos/RhythmsOfGiving) - Full-stack online auctioning platform, developed with .NET Blazor C# and SQL
-- [**DSS**](https://github.com/diogogmatos/trabalho-dss-grupo-05) - Backend management system for a service station, made with Java
-- [**E. S. Ideal (IPM)**](https://github.com/diogogmatos/IPM) - Internal service management platform, developed with Vue.js, TypeScript, and JSON Server
+- [**E.S. Ideal (DSS)**](https://github.com/diogogmatos/trabalho-dss-grupo-05) - Backend management system for a service station, made with Java
 
 **2nd year**
 - [**BD**](https://github.com/diogogmatos/BD-Grupo20) - Development of a database for a public transport company, using SQL
