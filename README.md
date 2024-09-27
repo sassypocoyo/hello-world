@@ -15,6 +15,7 @@
 ## 🎓 Uni Projects
 
 **3rd year**
+- [**UniShare (EngWeb)**](https://github.com/diogogmatos/EngWeb2024-Projeto) - Hub for study support materials for the entire academic community, developed in Next.js
 - [**E.S. Ideal (IPM)**](https://github.com/diogogmatos/IPM) - Internal management platform for a service station, developed with Vue.js, TypeScript, and JSON Server
 - [**RhythmsOfGiving (LI4)**](https://github.com/diogogmatos/RhythmsOfGiving) - Full-stack online auctioning platform, developed with .NET Blazor C# and SQL
 - [**E.S. Ideal (DSS)**](https://github.com/diogogmatos/trabalho-dss-grupo-05) - Backend management system for a service station, made with Java
